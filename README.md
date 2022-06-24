@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @naufan17
-- 👀 I’m interested in Web, Data Science and Blockchain
-- 📫 How to reach me muhammadnaufan719@gmail.com
+- 👀 I’m interested in Website, Data Science and Blockchain
+- 📫 How to reach me https://naufan17.github.io/web-portofolio/
+- 🌱 I’m currently learning web development using javascript
 
-<!-- - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ... -->
+<!-- - 💞️ I’m looking to collaborate on ... -->
 
 <!---
 naufan17/naufan17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
