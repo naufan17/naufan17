@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @naufan17
-- 👀 I’m interested in Website, Data Science and Blockchain
+- 👀 I’m interested in Website and Data Science
 - 📫 How to reach me https://naufan17.github.io/web-portofolio/
 - 🌱 I’m currently learning web development using javascript
 
