@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @naufan17
-- 👀 I am put interested in fullstack engineer especially in backend
-- 📫 How to reach me https://naufan17.github.io/web-portofolio/
+- 👀 I am put interested in fullstack developer especially in backend
+- 📫 Look my website portfolio https://naufan17.github.io/web-portofolio/
 - 🌱 I’m currently learning web development using javascript
 
 <!-- - 💞️ I’m looking to collaborate on ... -->
