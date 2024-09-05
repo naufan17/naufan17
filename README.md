@@ -6,6 +6,8 @@
 - 👀 I am put interested in fullstack development especially in backend
 - 🌱 I’m currently learning to especially in backend using many languange
 
+</br>
+
 ## Tech Stack 😵‍💫
 
 <div>
@@ -21,10 +23,16 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
 </div>
 
+</br>
+
 ## Stats 🔥
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=naufan17&show_icons=true&theme=github_dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naufan17&theme=github_dark&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=naufan17&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naufan17&theme=github_dark&hide_border=true&layout=compact&langs_count=8" alt="Top Langs" />
+</div>
+
+</br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=naufan17&&style=flat-square"/>
