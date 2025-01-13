@@ -3,8 +3,8 @@
 
 - 👋 Hi, I’m Naufan
 - 📫 Look my website portfolio https://naufan17.github.io/web-portofolio/
-- 👀 I am put interested in fullstack development especially in backend
-- 🌱 I’m currently learning in backend development using many languange
+- 👀 I am put interested in fullstack website development
+- 🌱 I’m currently learning in as a Fullstack Developer using PHP and JavaScript
 
 </br>
 
