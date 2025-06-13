@@ -4,7 +4,7 @@
 - 👋 Hi, I’m Naufan
 - 📫 Look my website portfolio https://naufan17.github.io/web-portofolio/
 - 👀 I am put interested in fullstack website development
-- 🌱 I’m currently learning in as a Fullstack Developer using PHP and JavaScript
+- 🌱 I’m currently learning in as a Fullstack Developer using TypeScript
 
 </br>
 
